@@ -1,5 +1,5 @@
 - 👋 olá,meu nome é  @laurinhaaaaaaa
-- :+1:meu email de contato é laura.eloisedasilvado.nascimento@escola.pr.gov.br
+- :+1:meu email de contato é [email](laura.eloisedasilvado.nascimento@escola.pr.gov.br)
 - 👀 eu estou interessado em aprender a programar novas linguagens.
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de javascript e scratch
 
